@@ -2,7 +2,7 @@
 
 ## About the App
   App takes the denominations of the currencies paid by the user(Amount Paid) and the (Bill Amount) as input. Makes a transaction according to 
-  one of the possible scenarios mentioned below.
+  one of the possible scenarios mentioned below. Amount paid by user is stored and used to return the change to next customers.
   
   ### Possible Scenarios:
   1. If Bill Amount > Amount Paid   ==>  UnSuccesful Transaction (Lack of Amount Paid)
