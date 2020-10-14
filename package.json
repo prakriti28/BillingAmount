@@ -11,5 +11,9 @@
     "colors": "^1.4.0",
     "commander": "^6.1.0",
     "inquirer": "^7.3.3"
+    
+  },
+  "scripts": {
+    "start":"node commands.js transact"
   }
 }
