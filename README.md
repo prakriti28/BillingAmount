@@ -16,6 +16,7 @@
 
 ## Command Syntax
 **node commands.js transact**
+**npm start**
 
 ## Third Party Dependencies 
 1. [commander](https://www.npmjs.com/package/commander) 
