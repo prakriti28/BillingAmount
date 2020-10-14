@@ -15,7 +15,6 @@
 3. Run the command **npm install** to download the third party npm dependencies.
 
 ## Command Syntax
-**node commands.js transact**
 **npm start**
 
 ## Third Party Dependencies 
